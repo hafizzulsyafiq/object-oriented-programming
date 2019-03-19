@@ -1,0 +1,4 @@
+administrator
+admin123
+cashier
+cashier123
